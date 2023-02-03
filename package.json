@@ -1,0 +1,12 @@
+{
+  "name": "is-owner",
+  "version": "1.0.0",
+  "description": "Check if the current process owns a file or directory.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oelin",
+  "license": "MIT"
+}
