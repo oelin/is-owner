@@ -1,6 +1,6 @@
 {
   "name": "is-owner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if the current process owns a file or directory.",
   "type": "module",
   "main": "index.js",
