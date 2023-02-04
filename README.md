@@ -12,7 +12,7 @@ npm i is-owner
 
 ## Usage
 
-```sh
+```js
 import isOwner from 'is-owner'
 
 isOwner('/etc/passwd') // Returns true or false depending on ownership.
