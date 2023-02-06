@@ -1,6 +1,6 @@
 # is-owner
 
-Check if the current process owns a file or directory.
+Check whether the current process owns a given file or directory.
 
 
 ## Installation
